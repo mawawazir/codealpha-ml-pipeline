@@ -2,7 +2,7 @@
 
 An end-to-end supervised machine learning pipeline: exploratory data analysis, statistical outlier detection, model training, and feature importance analysis, built on a real public dataset.
 
-**Author:** Muhammad Aamir
+**Author:** Mawa Wazir
 **Dataset:** [California Housing](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html) (1990 U.S. Census, Pace & Barry 1997) — 20,640 samples
 
 ---
